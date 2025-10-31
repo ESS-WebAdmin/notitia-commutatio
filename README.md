@@ -1,5 +1,6 @@
 # notitia-commutatio
 Data Presentation &amp; Exchange Web Application
+
 It shall: 
 - Create a repository of data-source API endpoints searchable by users 
 - Organize data logically for users to quickly find using filters
